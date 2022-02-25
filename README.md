@@ -14,7 +14,13 @@
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/0mpbdyDdMH.gif" width=250><br>
+Due to the content length exceeded problem, I will divide my App Walkthrough GIF into two parts: Now playing movies side and Superhero side. 
+
+#### Now playing movies: 
+<img src="http://g.recordit.co/umYwAItwui.gif" width=250><br>
+
+#### Superhero: 
+<img src="http://g.recordit.co/3FTrlrQx2h.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
