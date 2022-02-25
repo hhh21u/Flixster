@@ -14,7 +14,7 @@
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/jCU8Xdkj8d.gif" width=250><br>
+<img src="http://g.recordit.co/0mpbdyDdMH.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
